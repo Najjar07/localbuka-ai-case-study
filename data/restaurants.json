@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "name": "Hajiya Hadiza Balangu Restaurant",
+    "area": "Kofar Mata",
+    "state": "Kano",
+    "cuisine": ["Hausa", "Northern Nigerian"],
+    "popular_meals": [
+      "Tuwo Shinkafa + Miyan Kuka",
+      "Tuwo Masara + Miyan Taushe",
+      "Masa",
+      "Danwake",
+      "Balangu"
+    ],
+    "rating": 3.9,
+    "price_range": "budget",
+    "meal_types": ["breakfast", "lunch", "dinner"],
+    "distance_km": 2.1,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 2,
+    "name": "Yahuza Suya Spot",
+    "area": "Jaoji",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian"],
+    "popular_meals": [
+      "Beef Suya",
+      "Chicken Suya",
+      "Gizzard Suya",
+      "Kidney Suya",
+      "Kilishi"
+    ],
+    "rating": 4.1,
+    "price_range": "budget",
+    "meal_types": ["lunch", "dinner", "late_night"],
+    "distance_km": 3.4,
+    "spicy": true,
+    "data_source": "real_business_verified_food"
+  },
+  {
+    "id": 3,
+    "name": "Yahuza Suya",
+    "area": "Kofar Kabuga",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian"],
+    "popular_meals": [
+      "Beef Suya",
+      "Chicken Suya",
+      "Gizzard Suya",
+      "Liver Suya",
+      "Kidney Suya",
+      "Kilishi"
+    ],
+    "rating": 4.1,
+    "price_range": "budget",
+    "meal_types": ["lunch", "dinner", "late_night"],
+    "distance_km": 4.2,
+    "spicy": true,
+    "data_source": "real_business_verified_food"
+  },
+  {
+    "id": 4,
+    "name": "Nasarawa Suya Spot",
+    "area": "GRA",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian"],
+    "popular_meals": [
+      "Chicken Suya",
+      "Beef Suya",
+      "Tozo",
+      "Liver Suya",
+      "Gizzard Suya",
+      "Masa"
+    ],
+    "rating": 4.0,
+    "price_range": "budget",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 5.1,
+    "spicy": true,
+    "data_source": "real_business_verified_food"
+  },
+  {
+    "id": 5,
+    "name": "Gusto Restaurant",
+    "area": "Nassarawa",
+    "state": "Kano",
+    "cuisine": ["International", "Asian", "Italian"],
+    "popular_meals": [
+      "Sushi Platter",
+      "Shrimp Tempura Maki",
+      "Spicy Chicken Drumsticks",
+      "Pineapple Fried Rice + Chicken",
+      "Chicken Alfredo Penne"
+    ],
+    "rating": 4.4,
+    "price_range": "premium",
+    "meal_types": ["lunch", "dinner", "brunch", "late_night"],
+    "distance_km": 5.8,
+    "spicy": true,
+    "data_source": "real_business_verified_food"
+  },
+  {
+    "id": 6,
+    "name": "Cilantro Kano",
+    "area": "Giginyu",
+    "state": "Kano",
+    "cuisine": ["Indian", "Asian"],
+    "popular_meals": [
+      "Chicken Biryani",
+      "Chicken Curry",
+      "Butter Chicken",
+      "Naan",
+      "Vegetable Curry"
+    ],
+    "rating": 4.2,
+    "price_range": "premium",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 6.3,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 7,
+    "name": "ZAZU Restaurant",
+    "area": "Giginyu",
+    "state": "Kano",
+    "cuisine": ["Nigerian", "International"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Grilled Chicken",
+      "Beef",
+      "Pasta"
+    ],
+    "rating": 4.3,
+    "price_range": "premium",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 6.0,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 8,
+    "name": "Kurawa Bakery, Suya Spot & Restaurant",
+    "area": "Safiyanu, Madugu Street",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian", "Bakery"],
+    "popular_meals": [
+      "Suya",
+      "Kilishi",
+      "Masa",
+      "Bread",
+      "Tea and Snacks"
+    ],
+    "rating": 4.7,
+    "price_range": "budget",
+    "meal_types": ["breakfast", "lunch", "dinner"],
+    "distance_km": 3.0,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 9,
+    "name": "355 Restaurant & Lounge Kano",
+    "area": "Bompai",
+    "state": "Kano",
+    "cuisine": ["Nigerian", "International"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Grilled Chicken",
+      "Burger",
+      "Pasta"
+    ],
+    "rating": 4.2,
+    "price_range": "mid",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 5.7,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 10,
+    "name": "COOLIO RESTO LOUNGE Kano",
+    "area": "Fagge",
+    "state": "Kano",
+    "cuisine": ["Nigerian", "International"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Grilled Chicken",
+      "Beef",
+      "Pasta"
+    ],
+    "rating": 4.4,
+    "price_range": "mid",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 3.8,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 11,
+    "name": "Rashko Restaurant",
+    "area": "Janbulo",
+    "state": "Kano",
+    "cuisine": ["Nigerian", "Northern Nigerian"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Tuwo Shinkafa + Miyan Kuka",
+      "Grilled Chicken",
+      "Suya"
+    ],
+    "rating": 4.8,
+    "price_range": "budget",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 7.2,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 12,
+    "name": "Hauwa Senior Restaurant",
+    "area": "Kofar Mata",
+    "state": "Kano",
+    "cuisine": ["Hausa", "Northern Nigerian"],
+    "popular_meals": [
+      "Tuwo Shinkafa + Miyan Kuka",
+      "Tuwo Masara + Miyan Taushe",
+      "Masa",
+      "Waina",
+      "Danwake"
+    ],
+    "rating": 4.0,
+    "price_range": "budget",
+    "meal_types": ["breakfast", "lunch", "dinner"],
+    "distance_km": 2.5,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 13,
+    "name": "Ten to Ten Restaurant",
+    "area": "Nassarawa",
+    "state": "Kano",
+    "cuisine": ["Nigerian"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Rice and Beans",
+      "Yam + Egg Sauce",
+      "Grilled Chicken"
+    ],
+    "rating": 4.1,
+    "price_range": "mid",
+    "meal_types": ["breakfast", "lunch", "dinner"],
+    "distance_km": 5.5,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 14,
+    "name": "Sadiq Suya Spot",
+    "area": "Albasa",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian"],
+    "popular_meals": [
+      "Beef Suya",
+      "Chicken Suya",
+      "Ram Suya",
+      "Kilishi"
+    ],
+    "rating": 4.4,
+    "price_range": "budget",
+    "meal_types": ["dinner", "late_night"],
+    "distance_km": 4.6,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 15,
+    "name": "Belton Suya Spot Kano",
+    "area": "Dan Hassan",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian"],
+    "popular_meals": [
+      "Beef Suya",
+      "Chicken Suya",
+      "Ram Suya",
+      "Kilishi"
+    ],
+    "rating": 4.7,
+    "price_range": "budget",
+    "meal_types": ["lunch", "dinner", "late_night"],
+    "distance_km": 8.1,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 16,
+    "name": "AY Suya Spot",
+    "area": "Naibawa",
+    "state": "Kano",
+    "cuisine": ["Northern Nigerian"],
+    "popular_meals": [
+      "Beef Suya",
+      "Chicken Suya",
+      "Ram Suya",
+      "Kilishi"
+    ],
+    "rating": 4.6,
+    "price_range": "budget",
+    "meal_types": ["lunch", "dinner", "late_night"],
+    "distance_km": 9.0,
+    "spicy": true,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 17,
+    "name": "L&N Kitchen",
+    "area": "Nasarawa",
+    "state": "Kano",
+    "cuisine": ["Hausa", "Northern Nigerian", "Nigerian"],
+    "popular_meals": [
+      "Tuwo Hatsi + Miyan Karkashi",
+      "Tuwo Masara + Miyan Karkashi",
+      "Tuwo Shinkafa + Miyan Kuka",
+      "Danwake",
+      "Dambu Shinkafa + Meat",
+      "Balangu",
+      "Tsiri",
+      "Fura da Nono",
+      "Grilled Chicken",
+      "Grilled Tilapia Fish"
+    ],
+    "rating": 4.1,
+    "price_range": "mid",
+    "meal_types": ["breakfast", "lunch", "dinner"],
+    "distance_km": 5.0,
+    "spicy": true,
+    "data_source": "verified_menu"
+  },
+  {
+    "id": 18,
+    "name": "Cálido Rooftop",
+    "area": "Kawo",
+    "state": "Kano",
+    "cuisine": ["Fusion", "International"],
+    "popular_meals": [
+      "Grilled Chicken",
+      "Jollof Rice",
+      "Fried Rice",
+      "Pasta",
+      "Grilled Fish"
+    ],
+    "rating": 4.2,
+    "price_range": "premium",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 4.9,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 19,
+    "name": "Havana Elite",
+    "area": "Bompai",
+    "state": "Kano",
+    "cuisine": ["Nigerian", "International"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Grilled Chicken",
+      "Pasta",
+      "Shawarma"
+    ],
+    "rating": 4.2,
+    "price_range": "mid",
+    "meal_types": ["lunch", "dinner", "late_night"],
+    "distance_km": 6.5,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  },
+  {
+    "id": 20,
+    "name": "ANTIKA RESTO LOUNGE",
+    "area": "Sabon Gari",
+    "state": "Kano",
+    "cuisine": ["Nigerian", "International"],
+    "popular_meals": [
+      "Jollof Rice + Chicken",
+      "Fried Rice + Chicken",
+      "Grilled Chicken",
+      "Pasta",
+      "Shawarma"
+    ],
+    "rating": 5.0,
+    "price_range": "mid",
+    "meal_types": ["lunch", "dinner"],
+    "distance_km": 4.4,
+    "spicy": false,
+    "data_source": "real_business_demo_menu"
+  }
+]
